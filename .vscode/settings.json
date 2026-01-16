@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.scene": "json",
+        "*.rbcmt": "json"
+    },
+}
