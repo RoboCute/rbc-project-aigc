@@ -1,4 +1,5 @@
-# Default Robocute Project Template
+# AIGC Robocute Project Template
 
 This is the template project for [**Robocute**](https://github.com/RoboCute/RoboCute)
 
+for AIGC usage
