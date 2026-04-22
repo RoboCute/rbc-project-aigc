@@ -18,3 +18,5 @@ uv.lock
 
 # Local Files
 .env
+
+pretrained/*
